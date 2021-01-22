@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pageNotFound"],{a5b5:function(n,o,t){"use strict";t.r(o);var e=t("7a23");const c={class:"about"},a=Object(e["f"])("h1",null,"Page Not Found",-1);function u(n,o){return Object(e["o"])(),Object(e["d"])("div",c,[a])}const s={};s.render=u;o["default"]=s}}]);
+//# sourceMappingURL=pageNotFound.fc2646e6.js.map
